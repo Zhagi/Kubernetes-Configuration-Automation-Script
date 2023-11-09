@@ -12,3 +12,6 @@ Intended Usage:
 This script is intended for system administrators and DevOps professionals who manage Kubernetes clusters and require a reliable, script-based process to modify kubeconfig files in a secure and repeatable manner.
 
 
+## Acknowledgements
+- You can explore this project along with others at [moabukar/tech-vault](https://github.com/moabukar/tech-vault).
+- Special thanks to [moabukar](https://github.com/moabukar) for presenting numerous challenges and providing valuable resources that contribute significantly to the development of DevOps professionals.
